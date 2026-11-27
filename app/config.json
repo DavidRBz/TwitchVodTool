@@ -1,0 +1,32 @@
+{
+    "Language":  "",
+    "Paths":  {
+                  "TwitchDownloaderCLI":  "TwitchDownloaderCLI.exe",
+                  "FFmpeg":  "ffmpeg.exe",
+                  "FFprobe":  "ffprobe.exe",
+                  "YtDlp":  "yt-dlp.exe",
+                  "DefaultOutputDir":  ""
+              },
+    "Encoding":  {
+                     "Encoder":  "auto",
+                     "Crf":  20,
+                     "QualityPreset":  "medium"
+                 },
+    "Chat":  {
+                 "Width":  350,
+                 "Height":  500,
+                 "FontSize":  14,
+                 "ShowTimestamps":  false,
+                 "MarginLeft":  50,
+                 "MarginTop":  150,
+                 "BgOpacity":  0.25,
+                 "EmbedImages":  true,
+                 "Bttv":  true,
+                 "Ffz":  true,
+                 "SevenTv":  true
+             },
+    "Behavior":  {
+                     "AskContinueAfterTask":  null,
+                     "DefaultContinueAfterTask":  null
+                 }
+}
