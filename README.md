@@ -67,6 +67,10 @@ Se preferir instalar antes manualmente:
 - Ao concluir qualquer opção, o programa pergunta se você deseja continuar usando (`S/N`), limpando o terminal e voltando ao menu principal se confirmar.
 - Na primeira vez, também é oferecida a opção de **não mostrar esta pergunta novamente** (salva em `app/config.json`): dependendo da sua escolha, pressionar **Enter** ao final de uma tarefa limpa o terminal e volta ao menu ou fecha o programa diretamente. Isso pode ser alterado a qualquer momento na opção **`0`**.
 
+### ⚠️ Aviso
+
+Este é um projeto pessoal que decidi compartilhar publicamente. Ele é fornecido **no estado em que se encontra ("as is")**, sem garantias de qualquer tipo, e não assumo compromisso de manutenção, suporte ou atualizações futuras.
+
 </details>
 
 ---
@@ -134,3 +138,7 @@ If you prefer to install them manually beforehand:
 
 - After any option finishes, the script asks if you want to continue using the program (`Y/N`), clearing the terminal and returning to the main menu if you continue.
 - The first time this prompt appears, you can choose **Don't show this again** (saved in `app/config.json`): depending on your preference, pressing **Enter** after future tasks will either clear the terminal and restart the menu or close the program cleanly. You can change or reset this behavior anytime in option **`0`**.
+
+## ⚠️ Disclaimer
+
+This is a personal project that I decided to share publicly. It is provided **"as is"**, without warranties of any kind, and I make no commitment to maintain, support, or update it in the future.
